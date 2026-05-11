@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/x-app-run/.github/master/assets/x-app-run-logo.png" width="320" alt="x-app.run" />
+<img src="https://raw.githubusercontent.com/x-app-run/.github/master/assets/x-app-run-logo.svg" width="360" alt="x-app.run" />
 
 **Useful Tools & Utilities — all in your browser.**
 
